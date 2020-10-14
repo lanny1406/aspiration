@@ -1,9 +1,10 @@
 Quickstart 
 ==========
-#### Install 
+#### Install [Go] https://golang.org/doc/install
 
-1. [Go] https://golang.org/doc/install
-2. go get github.com/lanny1406/aspiration
+```go
+go get github.com/lanny1406/aspiration
+```
 
 ```go
 go run github.com/lanny1406/aspiration
